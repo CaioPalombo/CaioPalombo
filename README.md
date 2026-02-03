@@ -9,6 +9,7 @@ Estou começando agora nesse universo de programação, como adoro aprender cois
 
 - 📝 Python é meu foco de aprendizado atual.
 - 📫 Contato: caio.tomaz-palombo@unesp.br
+- 📷 Rede Social: [Instagram](https://www.instagram.com/caio_2664?igsh=MTVkOWtqaTNuc3U0eg==)
 
 <!--
 **CaioPalombo/CaioPalombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
