@@ -4,10 +4,6 @@
   <img src="https://i.redd.it/az5kxja7fkrf1.gif" widht="100" height="100" />
 </div>
 
-<div align="left">
-  <img src="https://i.redd.it/az5kxja7fkrf1.gif" widht="100" height="100" />
-</div>
-
 Me chamo Caio! Sou estudante do curso de história na UNESP de Franca e atualmente estou estagiando no Centro de Ciências Políticas e Sociais. 
 Estou começando agora nesse universo de programação, como adoro aprender coisas novas, estou bem empolgado para trilhar esta jornada.
 
@@ -15,17 +11,5 @@ Estou começando agora nesse universo de programação, como adoro aprender cois
 - 📫 Contato: caio.tomaz-palombo@unesp.br
 - 📷 Rede Social: [Instagram](https://www.instagram.com/caio_2664?igsh=MTVkOWtqaTNuc3U0eg==)
 
-<!--
-**CaioPalombo/CaioPalombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
