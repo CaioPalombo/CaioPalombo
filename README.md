@@ -4,6 +4,10 @@
   <img src="https://i.redd.it/az5kxja7fkrf1.gif" widht="100" height="100" />
 </div>
 
+<div align="left">
+  <img src="https://i.redd.it/az5kxja7fkrf1.gif" widht="100" height="100" />
+</div>
+
 Me chamo Caio! Sou estudante do curso de história na UNESP de Franca e atualmente estou estagiando no Centro de Ciências Políticas e Sociais. 
 Estou começando agora nesse universo de programação, como adoro aprender coisas novas, estou bem empolgado para trilhar esta jornada.
 
